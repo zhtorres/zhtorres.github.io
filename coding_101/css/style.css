@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css?family=Noto+Serif+TC:400,600|Roboto:400,700');
+
+
+body {
+  background-color: white;
+  color:  #ff0080;
+  font-family: "Noto Serif TC", sans-serif;
+}
+
+
+h1 {
+  color:  #ff4d4d;
+  font font-family: "Noto Serif TC", sans serif;
+  font-size: 30px;
+    text-align: center;
+}
+
+h2 {
+  font-size: 18px;
+  color:  #ff80bf
+
+}
